@@ -1,0 +1,13 @@
+---
+name: MyWarn
+main: jblusitsme\mywarn\Main
+author: JblusItsMe
+version: 1.0.0
+api: 4.6.1
+website: https://discord.gg/SAykWtyuNr
+
+permissions:
+  warn.perm:
+    description: Warn command
+    default: op
+...
